@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{diggle2010geostatistical}
+Peter~J Diggle, Raquel Menezes, and Ting-li Su.
+\newblock Geostatistical inference under preferential sampling.
+\newblock {\em Journal of the Royal Statistical Society: Series C (Applied
+  Statistics)}, 59(2):191--232, 2010.
+
+\bibitem{lindgren2011explicit}
+Finn Lindgren, H{\aa}vard Rue, and Johan Lindstr{\"o}m.
+\newblock An explicit link between gaussian fields and gaussian markov random
+  fields: the stochastic partial differential equation approach.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 73(4):423--498, 2011.
+
+\bibitem{moraga2019geospatial}
+Paula Moraga.
+\newblock {\em Geospatial health data: Modeling and visualization with R-INLA
+  and Shiny}.
+\newblock CRC Press, 2019.
+
+\bibitem{rue2009approximate}
+H{\aa}vard Rue, Sara Martino, and Nicolas Chopin.
+\newblock Approximate bayesian inference for latent gaussian models by using
+  integrated nested laplace approximations.
+\newblock {\em Journal of the royal statistical society: Series b (statistical
+  methodology)}, 71(2):319--392, 2009.
+
+\bibitem{whittle1963stochastic}
+Peter Whittle.
+\newblock Stochastic-processes in several dimensions.
+\newblock {\em Bulletin of the International Statistical Institute},
+  40(2):974--994, 1963.
+
+\end{thebibliography}
